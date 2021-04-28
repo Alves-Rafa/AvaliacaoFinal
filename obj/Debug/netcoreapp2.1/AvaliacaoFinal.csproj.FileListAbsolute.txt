@@ -1,0 +1,11 @@
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\bin\Debug\netcoreapp2.1\AvaliacaoFinal.deps.json
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\bin\Debug\netcoreapp2.1\AvaliacaoFinal.runtimeconfig.json
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\bin\Debug\netcoreapp2.1\AvaliacaoFinal.runtimeconfig.dev.json
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\bin\Debug\netcoreapp2.1\AvaliacaoFinal.dll
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\bin\Debug\netcoreapp2.1\AvaliacaoFinal.pdb
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\obj\Debug\netcoreapp2.1\AvaliacaoFinal.csprojAssemblyReference.cache
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\obj\Debug\netcoreapp2.1\AvaliacaoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\obj\Debug\netcoreapp2.1\AvaliacaoFinal.AssemblyInfoInputs.cache
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\obj\Debug\netcoreapp2.1\AvaliacaoFinal.AssemblyInfo.cs
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\obj\Debug\netcoreapp2.1\AvaliacaoFinal.dll
+C:\Users\Casa-PC\Documents\PROJETOS\Trilha_Especialista\AvaliacaoFinal\obj\Debug\netcoreapp2.1\AvaliacaoFinal.pdb
